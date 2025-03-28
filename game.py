@@ -1,9 +1,5 @@
 # Single-file Python Roguelike Game using PyGame
-# By: Your Name/AI Assistant
-# Date: 2023-10-27
-# Version: 2.0 (Added Menu, Save/Load, Key Repeat)
 
-#from curses import COLOR_RED
 import pygame
 import random
 import math
