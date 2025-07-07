@@ -24,9 +24,7 @@ Inspired by classics like *The Binding of Isaac*, *NetHack*, and *Rogue*, this p
 
 ---
 
-## 🖥️ Screenshots
 
-> *(Add your own screenshots here for best presentation — I recommend showing the dungeon, combat, and HUD.)*
 
 ---
 
